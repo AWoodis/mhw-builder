@@ -84,11 +84,11 @@ id	itemType	rarity	name	defense	fireResist	waterResist	thunderResist	iceResist	d
 1083	Arms	9	Kulu Vambraces α +	116;132;154	0	-3	0	1	0	criticalBoost-1;proTransporter-1	1;1	kulu	0
 1084	Waist	9	Kulu Coil α +	116;132;154	0	-3	0	1	0	itemProlonger-2;criticalEye-1	3	kulu	0
 1085	Legs	9	Kulu Greaves α +	116;132;154	0	-3	0	1	0	criticalEye-2;itemProlonger-1	2	kulu	0
-1086	Head	9	Kulu Headpiece α +	116;132;154	0	-3	0	1	0	slingerCapacity-2	4	kulu	0
-1087	Chest	9	Kulu Mail α +	116;132;154	0	-3	0	1	0	staminaSurge-1;criticalEye-1	4	kulu	0
-1088	Arms	9	Kulu Vambraces α +	116;132;154	0	-3	0	1	0	criticalBoost-1	4	kulu	0
-1089	Waist	9	Kulu Coil α +	116;132;154	0	-3	0	1	0	itemProlonger-2	4;1	kulu	0
-1090	Legs	9	Kulu Greaves α +	116;132;154	0	-3	0	1	0	criticalEye-1;itemProlonger-1	4	kulu	0
+1086	Head	9	Kulu Headpiece β +	116;132;154	0	-3	0	1	0	slingerCapacity-2	4	kulu	0
+1087	Chest	9	Kulu Mail β +	116;132;154	0	-3	0	1	0	staminaSurge-1;criticalEye-1	4	kulu	0
+1088	Arms	9	Kulu Vambraces β +	116;132;154	0	-3	0	1	0	criticalBoost-1	4	kulu	0
+1089	Waist	9	Kulu Coil β +	116;132;154	0	-3	0	1	0	itemProlonger-2	4;1	kulu	0
+1090	Legs	9	Kulu Greaves β +	116;132;154	0	-3	0	1	0	criticalEye-1;itemProlonger-1	4	kulu	0
 1091	Head	9	Pukei Hat α +	118;134;156	0	3	-3	0	1	survivalExpert-2;poisonResistance-1	2;2	pukei	0
 1092	Chest	9	Pukei Mail α +	118;134;156	0	3	-3	0	1	itemProlonger-2;peakPerformance-1	2	pukei	0
 1093	Arms	9	Pukei Braces α +	118;134;156	0	3	-3	0	1	peakPerformance-2;survivalExpert-1	1	pukei	0
